@@ -1,16 +1,25 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
     font-size: 40px;
 }
 
 .box-one{
     background-color: #eb5757;
-    border: 0 solid #9b51e0;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 20px solid #9b51e0;
+    margin: 100px;
+    box-sizing: border-box;
 }
 
 .box-two{
     background-color: #2d9cdb;
     border: 0 solid #27ae60;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid #9b51e0;
+    margin: 70px;
 }
